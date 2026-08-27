@@ -1,3 +1,3 @@
 user:
   welcome:
-    message: "환영합니다 (v2 - Bus 전파 테스트)"
+    message: "환영합니다 (v3 - refresh.enable=false 검증)"
